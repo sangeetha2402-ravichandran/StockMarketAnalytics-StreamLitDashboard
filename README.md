@@ -57,7 +57,7 @@ Shows historical closing prices of the selected stock.
 
 📸 Screenshot:
 
-/screenshots/closing_price.png
+![Closing Price Over Time](stockprice_closingprice.png)
 
 ## 2️⃣ Moving Averages (10, 20, 50 days)
 
@@ -92,4 +92,6 @@ Yearly
 ## 5️⃣ Correlation Heatmap
 
 Shows correlation between stock closing prices.
+
+heatmap.png
 
