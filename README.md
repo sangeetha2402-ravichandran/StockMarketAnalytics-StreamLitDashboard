@@ -32,13 +32,13 @@ An interactive **Stock Market Analysis Dashboard** built using **Python & Stream
 
 ## 🛠️ Tech Stack
 
-- Python 3.9+
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
-- Seaborn
-- Matplotlib
+
+- **Programming Language:** Python 3.9+
+- **Framework:** Streamlit
+- **Libraries:** Pandas, NumPy, Plotly, Seaborn, Matplotlib
+- **Notebook:** Jupyter Notebook
+- **Visualization:** Plotly, Seaborn
+- **Version Control:** Git & GitHub
 
 ---
 
