@@ -1,5 +1,11 @@
 # 📈 Stock Analysis Dashboard (Streamlit)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)
+
+
 An interactive **Stock Market Analysis Dashboard** built using **Python & Streamlit** to visualize historical stock prices of major tech companies.
 
 ---
