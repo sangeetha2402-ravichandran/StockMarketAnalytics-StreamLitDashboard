@@ -55,25 +55,19 @@ http://localhost:8501
 
 Shows historical closing prices of the selected stock.
 
-📸 Screenshot:
 
-![Closing Price Over Time](stockprice_closingprice.png)
 
 ## 2️⃣ Moving Averages (10, 20, 50 days)
 
 Helps identify trends and smooth price fluctuations.
 
-📸 Screenshot:
 
-/screenshots/moving_average.png
 
 ## 3️⃣ Daily Returns (%)
 
 Displays daily percentage change in stock price.
 
-## 📸 Screenshot:
 
-/screenshots/daily_returns.png
 
 ## 4️⃣ Resampled Closing Prices
 
@@ -85,13 +79,33 @@ Quarterly
 
 Yearly
 
-##📸 Screenshot:
 
-/screenshots/resampled_prices.png
 
 ## 5️⃣ Correlation Heatmap
 
 Shows correlation between stock closing prices.
 
-heatmap.png
+## 📊 Dashboard Screenshots
 
+### 📈 Google Closing Price
+![Stock Closing Price](stockprice-closingprice.png)
+
+---
+
+### 📉 Amazon Closing Price
+![Amazon Closing Price](ClosingPrice-Amazon.png)
+
+---
+
+### 📊 Average Closing Price
+![Average Closing Price](AverageClosingPrice.png)
+
+---
+
+### 📈 Daily Returns Over Time
+![Daily Returns](DailyReturnsOverTime.png)
+
+---
+
+### 🔥 Correlation Heatmap
+![Heatmap](heatmap.png)
